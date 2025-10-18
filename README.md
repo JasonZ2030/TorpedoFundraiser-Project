@@ -25,10 +25,13 @@ Watch the introduction and advertisement video, which includes instructions on h
 
 <!-- Add your project images here -->
 
-![Torpedo Image 1](link-to-image-1)
-![Torpedo Image 2](link-to-image-2)
-![Torpedo Image 3](link-to-image-3)
+![Torpedo Image 1](IMG_0514.jpg)
+![Torpedo Image 2](Screenshot 2025-10-18 103553.png)
+![Torpedo Image 3](IMG_1179.jpg)
 
+![Torpedo Image 4](Screenshot 2025-10-18 103821.png)
+![Torpedo Image 5](IMG_1273.jpg)
+![Torpedo Image 6](Screenshot 2025-10-18 103731.png)
 ## Links & Resources
 
 - **Project Repository**: [Add GitHub repo link]
