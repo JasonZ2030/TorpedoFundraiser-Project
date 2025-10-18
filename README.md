@@ -1,4 +1,5 @@
 # Torpedo Fundraiser Project
+**Jason Zhang**
 
 ## Overview
 
@@ -6,7 +7,7 @@ I've always loved engineering things for solving real life problems. This projec
 
 ## Project Success
 
-By selling these torpedoes, I raised over **$400** for my swim team, demonstrating how engineering and entrepreneurship can come together to support community causes.
+By selling these torpedoes, I raised over **$400** for my swim team. The fundraise is an demonstration of what engineering and passion can do to support community causes.
 
 ## Features
 
@@ -14,36 +15,37 @@ By selling these torpedoes, I raised over **$400** for my swim team, demonstrati
 - **Rubber Band Propulsion**: Self-propelling mechanism powered by elastic energy
 - **Easy Maintenance**: Replaceable rubber bands for extended use
 - **Pool-Safe**: Designed specifically for underwater use
+- **Wearibility**: features a built-in attachment point to a necklace chain, which prevents you from losing it
 
 ## Demo Video
 
 Watch the introduction and advertisement video, which includes instructions on how to change the rubber bands:
 
-📺 [Torpedo Pool Toy Demo & Instructions](https://www.youtube.com/watch?v=7xv1Zauf7r4)
+ [Torpedo Pool Toy Demo & Instructions](https://www.youtube.com/watch?v=7xv1Zauf7r4)
 
 ## Images
 <div align="center">
 <table>
   <tr>
     <td align="center">
-      <img src="Images/IMG_0514.jpg" width="300">
-    </td>
-    <td align="center">
       <img src="Images/Screenshot 2025-10-18 103714.png" width="300">
     </td>
     <td align="center">
-      <img src="Images/IMG_1179.jpg" width="300">
+      <img src="Images/IMG_0514.jpg" width="300">
+    </td>
+    <td align="center">
+      <img src="Images/Screenshot 2025-10-18 103821.png" width="300">
     </td>
   </tr>
   <tr>
     <td align="center">
+      <img src="Images/IMG_1273.jpg" width="200" height = "300">
+    </td>
+    <td align="center">
       <img src="Images/Screenshot 2025-10-18 103731.png" width="300">
     </td>
     <td align="center">
-      <img src="Images/IMG_1273.jpg" width="300">
-    </td>
-    <td align="center">
-      <img src="Images/Screenshot 2025-10-18 103821.png" width="300">
+      <img src="Images/IMG_1179.jpg" width="200" height = "300">
     </td>
   </tr>
 </table>
@@ -51,10 +53,8 @@ Watch the introduction and advertisement video, which includes instructions on h
 
 ## Links & Resources
 
-- **Project Repository**: [Add GitHub repo link]
 - **CAD Files**: [Add link to CAD files]
-- **3D Printing Guide**: [Add link to printing guide]
-- **Assembly Instructions**: [Add link to instructions]
+- [Assembly Instructions](https://youtu.be/7xv1Zauf7r4?t=41)
 
 ## How It Works
 
@@ -62,16 +62,14 @@ The torpedo uses the stored elastic energy from a wound rubber band to propel it
 
 ## Contributing
 
-Interested in improving the design or have suggestions? Feel free to open an issue or submit a pull request!
-
-## License
-
-[Add your chosen license here]
+If you are interested in improving the design or have suggestions, feel free to open an issue or submit a pull request!
 
 ## Contact
 
-[Add your contact information or preferred contact method]
+**Name**: Jason Zhang
+
+**Email**: jason.zhang.duidui@gmail.com
 
 ---
 
-*Built with passion for swimming and engineering* 🏊‍♂️🔧
+*Built with passion for swimming and engineering*
