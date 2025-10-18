@@ -1,5 +1,4 @@
 # Torpedo Fundraiser Project
-**Jason Zhang**
 
 ## Overview
 
