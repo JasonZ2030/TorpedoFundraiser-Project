@@ -22,16 +22,35 @@ Watch the introduction and advertisement video, which includes instructions on h
 📺 [Torpedo Pool Toy Demo & Instructions](https://www.youtube.com/watch?v=7xv1Zauf7r4)
 
 ## Images
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/IMG_0514.jpg" width="400">
+    </td>
+    <td align="center">
+      <img src="Images/Screenshot 2025-10-18 103714.png" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Images/IMG_1179.jpg" width="400">
+    </td>
+    <td align="center">
+      <img src="Images/Screenshot 2025-10-18 103731.png" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Images/IMG_1273.jpg" width="400">
+    </td>
+    <td align="center">
+      <img src="Images/Screenshot 2025-10-18 103821.png" width="400">
+    </td>
+  </tr>
+</table>
+</div>
 
-<!-- Add your project images here -->
-
-![Torpedo Image 1](IMG_0514.jpg)
-![Torpedo Image 2](Screenshot 2025-10-18 103553.png)
-![Torpedo Image 3](IMG_1179.jpg)
-
-![Torpedo Image 4](Screenshot 2025-10-18 103821.png)
-![Torpedo Image 5](IMG_1273.jpg)
-![Torpedo Image 6](Screenshot 2025-10-18 103731.png)
 ## Links & Resources
 
 - **Project Repository**: [Add GitHub repo link]
