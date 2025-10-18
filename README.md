@@ -26,26 +26,24 @@ Watch the introduction and advertisement video, which includes instructions on h
 <table>
   <tr>
     <td align="center">
-      <img src="Images/IMG_0514.jpg" width="400">
+      <img src="Images/IMG_0514.jpg" width="300">
     </td>
     <td align="center">
-      <img src="Images/Screenshot 2025-10-18 103714.png" width="400">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="Images/IMG_1179.jpg" width="400">
+      <img src="Images/Screenshot 2025-10-18 103714.png" width="300">
     </td>
     <td align="center">
-      <img src="Images/Screenshot 2025-10-18 103731.png" width="400">
+      <img src="Images/IMG_1179.jpg" width="300">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Images/IMG_1273.jpg" width="400">
+      <img src="Images/Screenshot 2025-10-18 103731.png" width="300">
     </td>
     <td align="center">
-      <img src="Images/Screenshot 2025-10-18 103821.png" width="400">
+      <img src="Images/IMG_1273.jpg" width="300">
+    </td>
+    <td align="center">
+      <img src="Images/Screenshot 2025-10-18 103821.png" width="300">
     </td>
   </tr>
 </table>
