@@ -8,20 +8,6 @@ I've always loved engineering things for solving real life problems. This projec
 
 By selling these torpedoes, I raised over **$400** for my swim team. The fundraise is an demonstration of what engineering and passion can do to support community causes.
 
-## Features
-
-- **3D-Printable Design**: Custom CAD model optimized for 3D printing
-- **Rubber Band Propulsion**: Self-propelling mechanism powered by elastic energy
-- **Easy Maintenance**: Replaceable rubber bands for extended use
-- **Pool-Safe**: Designed specifically for underwater use
-- **Wearibility**: features a built-in attachment point to a necklace chain, which prevents you from losing it
-
-## Demo Video
-
-Watch the introduction and advertisement video, which includes instructions on how to change the rubber bands:
-
- [Torpedo Pool Toy Demo & Instructions](https://www.youtube.com/watch?v=7xv1Zauf7r4)
-
 ## Images
 <div align="center">
 <table>
@@ -50,16 +36,48 @@ Watch the introduction and advertisement video, which includes instructions on h
 </table>
 </div>
 
+## Features
+
+- **3D-Printable Design**: Custom CAD model optimized for 3D printing
+- **Rubber Band Propulsion**: Self-propelling mechanism powered by elastic energy
+- **Easy Maintenance**: Replaceable rubber bands for extended use
+- **Pool-Safe**: Designed specifically for underwater use
+- **Wearibility**: features a built-in attachment point to a necklace chain, which prevents you from losing it
+
+## Demo Video
+
+Watch the introduction and advertisement video, which includes instructions on how to change the rubber bands:
+
+ [Torpedo Pool Toy Demo & Instructions](https://www.youtube.com/watch?v=7xv1Zauf7r4)
+ 
+
 ## Links & Resources
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="Images/Screenshot 2025-10-19 120825.png" width="300">
+    </td>
+    <td align="center">
+      <img src="Images/Screenshot 2025-10-19 120846.png" width="300">
+    </td>
+    <td align="center">
+      <img src="Images/Screenshot 2025-10-19 120902.png" width="300">
+    </td>
+  </tr>
+</table>
+</div>
 
 - **3D CAD Files**:
-<ul style="padding-left: 40px;">
+<blockquote>
+<ul>
   <li><a href="CadFiles/TorpedoBody.stl">Torpedo Body</a></li>
   <li><a href="CadFiles/TorpedoRingBarringHolder.stl">Ring Barring Holder</a></li>
   <li><a href="CadFiles/TorpedoPropellerTail.stl">Propeller Tail</a></li>
   <li><a href="CadFiles/TorpedoInteriorHook.stl">Interior Hook</a></li>
   <li><a href="CadFiles/TorpedoNose.stl">Torpedo Nose</a></li>
 </ul>
+</blockquote>
 
 - [Assembly Instructions](https://youtu.be/7xv1Zauf7r4?t=41)
 
