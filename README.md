@@ -48,8 +48,12 @@ By selling these torpedoes, I raised over **$400** for my swim team. The fundrai
 
 Watch the introduction and advertisement video, which includes instructions on how to change the rubber bands:
 
- [Torpedo Pool Toy Demo & Instructions](https://www.youtube.com/watch?v=7xv1Zauf7r4)
- 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=7xv1Zauf7r4">
+    <img src="https://img.youtube.com/vi/7xv1Zauf7r4/maxresdefault.jpg" width="600" alt="Torpedo Demo">
+  </a>
+  <p><i>Click to watch the demonstration</i></p>
+</div> 
 
 ## Links & Resources
 <div align="center">
