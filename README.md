@@ -52,7 +52,15 @@ Watch the introduction and advertisement video, which includes instructions on h
 
 ## Links & Resources
 
-- **CAD Files**: [Add link to CAD files]
+- **3D CAD Files**:
+<ul style="padding-left: 40px;">
+  <li><a href="CadFiles/TorpedoBody.stl">Torpedo Body</a></li>
+  <li><a href="CadFiles/TorpedoRingBarringHolder.stl">Ring Barring Holder</a></li>
+  <li><a href="CadFiles/TorpedoPropellerTail.stl">Propeller Tail</a></li>
+  <li><a href="CadFiles/TorpedoInteriorHook.stl">Interior Hook</a></li>
+  <li><a href="CadFiles/TorpedoNose.stl">Torpedo Nose</a></li>
+</ul>
+
 - [Assembly Instructions](https://youtu.be/7xv1Zauf7r4?t=41)
 
 ## How It Works
